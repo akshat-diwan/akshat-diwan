@@ -10,6 +10,7 @@ Passionate developer blending **front-end creativity** with **data-driven proble
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -17,6 +18,7 @@ Passionate developer blending **front-end creativity** with **data-driven proble
 - Front-end Development  
 - Machine Learning (ML)  
 - Deep Learning (DL)  
+- Database Querying with **SQL**
 
 ---
 
@@ -24,7 +26,7 @@ Passionate developer blending **front-end creativity** with **data-driven proble
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Restaurant Table Booking App](#)** | Interactive React web app for real-time reservations | React, HTML, CSS |
+| **[Restaurant Table Booking App](#)** | Interactive React web app for real-time reservations | React, HTML, CSS, SQL |
 | **[NYC Taxi Trip Time Prediction](#)** | Regression model predicting taxi travel times in NYC | Python, Scikit-learn |
 | **[Cardiovascular Risk Prediction](#)** | Classification model for health risk assessment | Python, Scikit-learn |
 | **[React Calculator](#)** | Sleek and responsive calculator interface | React, HTML, CSS |
@@ -34,6 +36,7 @@ Passionate developer blending **front-end creativity** with **data-driven proble
 ## 📈 Currently
 - Learning advanced **Deep Learning** architectures  
 - Exploring **full-stack** integrations for ML projects  
+- Strengthening **SQL** for data analysis and backend integration  
 
 ---
 
