@@ -26,7 +26,7 @@ Passionate developer blending **front-end creativity** with **data-driven proble
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Restaurant Table Booking App](https://github.com/akshat-diwan/React-project)** | Interactive React web app for real-time reservations | React, HTML, CSS, SQL |
+| **[Restaurant Table Booking App](https://github.com/akshat-diwan/React-project)** | Interactive React web app for real-time reservations | React, HTML, CSS |
 | **[NYC Taxi Trip Time Prediction](https://github.com/akshat-diwan/Regression-Project)** | Regression model predicting taxi travel times in NYC | Python, Scikit-learn |
 | **[Cardiovascular Risk Prediction](https://github.com/akshat-diwan/Classification_Project)** | Classification model for health risk assessment | Python, Scikit-learn |
 | **[React Calculator](https://github.com/akshat-diwan/calculator_react)** | Sleek and responsive calculator interface | React, HTML, CSS |
