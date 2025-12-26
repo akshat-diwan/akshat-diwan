@@ -1,49 +1,55 @@
-# 👋 Hi, I’m Akshat
+## Hi, I’m Akshat 👋  
 
-Passionate developer blending **front-end creativity** with **data-driven problem solving**.
+🎓 Undergraduate | 📊 Aspiring Data Scientist | ⚙️ Frontend Engineer  
 
----
-
-## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+I’m a data science–focused developer with a strong foundation in **machine learning, data analysis, and applied statistics**, complemented by hands-on experience in **frontend engineering using React**. I enjoy building end-to-end solutions — from raw data preprocessing to insightful visualizations and user-facing applications.
 
 ---
 
-## 💡 Skills
-- Front-end Development  
-- Machine Learning (ML)  
-- Deep Learning (DL)  
-- Database Querying with **SQL**
+## 🔍 What I’m Currently Focused On
+- Data cleaning, profiling, and exploratory data analysis (EDA)
+- Machine learning models for classification, regression, and recommendation systems
+- Building scalable, automated data pipelines and analytics tools
+- Developing interactive web interfaces for data-driven applications
 
 ---
 
-## 🚀 Projects
+## 🛠️ Technical Skills
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Restaurant Table Booking App](https://github.com/akshat-diwan/React-project)** | Interactive React web app for real-time reservations | React, HTML, CSS |
-| **[NYC Taxi Trip Time Prediction](https://github.com/akshat-diwan/Regression-Project)** | Regression model predicting taxi travel times in NYC | Python, Scikit-learn |
-| **[Cardiovascular Risk Prediction](https://github.com/akshat-diwan/Classification_Project)** | Classification model for health risk assessment | Python, Scikit-learn |
-| **[React Calculator](https://github.com/akshat-diwan/calculator_react)** | Sleek and responsive calculator interface | React, HTML, CSS |
+**Data Science & ML**  
+- Python, Pandas, NumPy, Scikit-learn  
+- Machine Learning (Classification, Regression, Clustering)  
+- NLP (TF-IDF, text classification)  
+- Model evaluation (Precision, Recall, ROC-AUC)
 
----
+**Data Analysis & Visualization**  
+- Exploratory Data Analysis (EDA)  
+- Plotly, Matplotlib, Seaborn  
+- Automated reporting and dashboards
 
-## 📈 Currently
-- Learning advanced **Deep Learning** architectures  
-- Exploring **full-stack** integrations for ML projects  
-- Strengthening **SQL** for data analysis and backend integration  
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-diwan-534970286/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatdiwan31@gmail.com)
+**Frontend & Tools**  
+- React, JavaScript, HTML, CSS  
+- Streamlit  
+- Git, GitHub  
 
 ---
 
-⭐️ *"Always learning, building, and turning ideas into impactful solutions."*
+## 📌 Featured Projects
+
+**Automated Data Cleaning & Profiling Platform**  
+Built a high-performance web application to automatically clean and profile large CSV/Excel datasets by handling outliers, missing values, and duplicates, and generating interactive visualizations with downloadable PDF and CSV/Excel reports for datasets up to 10M rows.
+
+**Fake News Detection**  
+Built an NLP-based fake news classification system using TF-IDF features and XGBoost, achieving **0.97 precision** and **0.93 recall**.
+
+**New York Taxi Trip Duration Prediction**  
+Developed a regression model using geolocation data and time-based feature engineering to predict taxi trip durations.
+
+**Movie Recommendation System**  
+Implemented a content-based recommendation system using K-Means clustering on metadata to suggest similar movies.
+
+**Restaurant Table Booking System**  
+Created a responsive React-based restaurant booking interface with form validation and user-friendly UI components.
+
+---
+
